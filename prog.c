@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 #define _$()                                         0
 #define __$()                                        1
 #define _$_()                                        10
