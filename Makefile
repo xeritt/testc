@@ -5,7 +5,7 @@
 # This work by Landon Curt Noll, Simon Cooper, and Leonid A. Broukhis
 # is licensed under:
 #
-#	Creative Commons Attribution-ShareAlike 3.0 Unported License.
+#Creative Commons Attribution-ShareAlike 3.0 Unported License.
 #
 # See: http://creativecommons.org/licenses/by-sa/3.0/
 
